@@ -1,0 +1,130 @@
+{
+    "name": "Parfüm POS - Kodaz.az",
+    "short_name": "Parfüm POS",
+    "description": "Parfüm Satış və İnventar İdarəetmə Sistemi",
+    "version": "1.0.0",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "theme_color": "#667eea",
+    "background_color": "#ffffff",
+    "scope": "/",
+    "lang": "az",
+    "icons": [
+        {
+            "src": "assets/icons/icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "assets/icons/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "assets/icons/icon-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "assets/icons/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "assets/icons/icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "assets/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "assets/icons/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "assets/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "assets/screenshots/desktop-1.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "assets/screenshots/mobile-1.png",
+            "sizes": "360x640",
+            "type": "image/png",
+            "form_factor": "narrow"
+        }
+    ],
+    "categories": ["business", "productivity", "utilities"],
+    "shortcuts": [
+        {
+            "name": "Yeni Satış",
+            "short_name": "Satış",
+            "description": "Tez satış əməliyyatı",
+            "url": "/?page=sales&action=new",
+            "icons": [
+                {
+                    "src": "assets/icons/shortcut-sale.png",
+                    "sizes": "96x96"
+                }
+            ]
+        },
+        {
+            "name": "Məhsullar",
+            "short_name": "Məhsullar",
+            "description": "Məhsul kataloqu",
+            "url": "/?page=products",
+            "icons": [
+                {
+                    "src": "assets/icons/shortcut-products.png",
+                    "sizes": "96x96"
+                }
+            ]
+        },
+        {
+            "name": "Chat",
+            "short_name": "Chat",
+            "description": "Komanda chat",
+            "url": "/?page=chat",
+            "icons": [
+                {
+                    "src": "assets/icons/shortcut-chat.png",
+                    "sizes": "96x96"
+                }
+            ]
+        },
+        {
+            "name": "Hesabatlar",
+            "short_name": "Hesabat",
+            "description": "Satış hesabatları",
+            "url": "/?page=reports",
+            "icons": [
+                {
+                    "src": "assets/icons/shortcut-reports.png",
+                    "sizes": "96x96"
+                }
+            ]
+        }
+    ],
+    "related_applications": [],
+    "prefer_related_applications": false
+}

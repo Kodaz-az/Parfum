@@ -1,0 +1,525 @@
+[21-Jul-2025 16:01:34 Asia/Baku] PHP Warning:  file_put_contents(/home/ezizov04/public_html/parfum/config/../logs/error.log): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/config/config.php on line 132
+[21-Jul-2025 16:01:34 Asia/Baku] PHP Warning:  file_put_contents(/home/ezizov04/public_html/parfum/config/../logs/error.log): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/config/config.php on line 132
+[21-Jul-2025 16:01:34 Asia/Baku] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/ezizov04/public_html/parfum/config/../logs/error.log): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/config/config.php:144
+Stack trace:
+#0 [internal function]: {closure:/home/ezizov04/public_html/parfum/config/config.php:129}()
+#1 /home/ezizov04/public_html/parfum/config/config.php(144): file_put_contents()
+#2 [internal function]: {closure:/home/ezizov04/public_html/parfum/config/config.php:140}()
+#3 {main}
+  thrown in /home/ezizov04/public_html/parfum/config/config.php on line 144
+[21-Jul-2025 16:01:35 Asia/Baku] PHP Warning:  file_put_contents(/home/ezizov04/public_html/parfum/config/../logs/error.log): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/config/config.php on line 132
+[21-Jul-2025 16:01:35 Asia/Baku] PHP Warning:  file_put_contents(/home/ezizov04/public_html/parfum/config/../logs/error.log): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/config/config.php on line 132
+[21-Jul-2025 16:01:35 Asia/Baku] PHP Fatal error:  Uncaught ErrorException: file_put_contents(/home/ezizov04/public_html/parfum/config/../logs/error.log): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/config/config.php:144
+Stack trace:
+#0 [internal function]: {closure:/home/ezizov04/public_html/parfum/config/config.php:129}()
+#1 /home/ezizov04/public_html/parfum/config/config.php(144): file_put_contents()
+#2 [internal function]: {closure:/home/ezizov04/public_html/parfum/config/config.php:140}()
+#3 {main}
+  thrown in /home/ezizov04/public_html/parfum/config/config.php on line 144
+[21-Jul-2025 12:04:48 UTC] PHP Parse error:  syntax error, unexpected T_INLINE_HTML "                ", expecting "endswitch" or "case" or "default" in /home/ezizov04/public_html/parfum/install.php on line 468
+[21-Jul-2025 12:04:53 UTC] PHP Parse error:  syntax error, unexpected T_INLINE_HTML "                ", expecting "endswitch" or "case" or "default" in /home/ezizov04/public_html/parfum/install.php on line 468
+[21-Jul-2025 12:04:57 UTC] PHP Parse error:  syntax error, unexpected T_INLINE_HTML "                ", expecting "endswitch" or "case" or "default" in /home/ezizov04/public_html/parfum/install.php on line 468
+[21-Jul-2025 12:05:49 UTC] PHP Parse error:  syntax error, unexpected T_INLINE_HTML "                ", expecting "endswitch" or "case" or "default" in /home/ezizov04/public_html/parfum/install.php on line 468
+[21-Jul-2025 12:14:17 UTC] PHP Parse error:  syntax error, unexpected T_INLINE_HTML "                ", expecting "endswitch" or "case" or "default" in /home/ezizov04/public_html/parfum/install.php on line 854
+[21-Jul-2025 12:14:19 UTC] PHP Parse error:  syntax error, unexpected T_INLINE_HTML "                ", expecting "endswitch" or "case" or "default" in /home/ezizov04/public_html/parfum/install.php on line 854
+[21-Jul-2025 12:16:51 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/ezizov04/public_html/parfum/install.php on line 882
+[21-Jul-2025 12:16:53 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/ezizov04/public_html/parfum/install.php on line 882
+[21-Jul-2025 12:17:01 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/ezizov04/public_html/parfum/install.php on line 882
+[21-Jul-2025 12:17:03 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/ezizov04/public_html/parfum/install.php on line 882
+[21-Jul-2025 12:17:04 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/ezizov04/public_html/parfum/install.php on line 882
+[21-Jul-2025 12:17:05 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/ezizov04/public_html/parfum/install.php on line 882
+[21-Jul-2025 12:17:06 UTC] PHP Fatal error:  'break' not in the 'loop' or 'switch' context in /home/ezizov04/public_html/parfum/install.php on line 882
+[21-Jul-2025 16:43:50 Asia/Baku] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/index.php on line 15
+[21-Jul-2025 16:43:50 Asia/Baku] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ezizov04/public_html/parfum/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ezizov04/public_html/parfum/index.php on line 15
+[21-Jul-2025 16:44:26 Asia/Baku] PHP Warning:  require_once(includes/Database.php): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/index.php on line 15
+[21-Jul-2025 16:44:26 Asia/Baku] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/Database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ezizov04/public_html/parfum/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ezizov04/public_html/parfum/index.php on line 15
+[21-Jul-2025 16:44:28 Asia/Baku] PHP Warning:  require_once(includes/Database.php): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/index.php on line 15
+[21-Jul-2025 16:44:28 Asia/Baku] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/Database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ezizov04/public_html/parfum/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ezizov04/public_html/parfum/index.php on line 15
+[21-Jul-2025 16:48:44 Asia/Baku] PHP Fatal error:  Cannot redeclare function redirect() (previously declared in /home/ezizov04/public_html/parfum/index.php:119) in /home/ezizov04/public_html/parfum/includes/functions.php on line 193
+[21-Jul-2025 17:02:07 Asia/Baku] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/index.php on line 14
+[21-Jul-2025 17:02:07 Asia/Baku] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ezizov04/public_html/parfum/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ezizov04/public_html/parfum/index.php on line 14
+[21-Jul-2025 17:02:08 Asia/Baku] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/index.php on line 14
+[21-Jul-2025 17:02:08 Asia/Baku] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ezizov04/public_html/parfum/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ezizov04/public_html/parfum/index.php on line 14
+[21-Jul-2025 17:19:28 Asia/Baku] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/index.php on line 14
+[21-Jul-2025 17:19:28 Asia/Baku] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ezizov04/public_html/parfum/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ezizov04/public_html/parfum/index.php on line 14
+[21-Jul-2025 17:19:47 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/products.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/products.php on line 7
+[21-Jul-2025 17:19:55 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/dashboard.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/dashboard.php on line 7
+[21-Jul-2025 17:20:11 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/dashboard.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/dashboard.php on line 7
+[21-Jul-2025 17:20:35 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:20:37 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/products.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/products.php on line 7
+[21-Jul-2025 17:20:38 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/chat.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/chat.php on line 7
+[21-Jul-2025 17:20:39 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/calls.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/calls.php on line 7
+[21-Jul-2025 17:20:40 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/reports.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/reports.php on line 7
+[21-Jul-2025 17:20:40 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/users.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/users.php on line 7
+[21-Jul-2025 17:20:41 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/salary.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/salary.php on line 7
+[21-Jul-2025 17:20:42 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/profile.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/profile.php on line 7
+[21-Jul-2025 17:20:44 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/reports.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/reports.php on line 7
+[21-Jul-2025 17:20:47 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/dashboard.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/dashboard.php on line 7
+[21-Jul-2025 17:29:43 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/dashboard.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/dashboard.php on line 7
+[21-Jul-2025 17:29:45 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/dashboard.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/dashboard.php on line 7
+[21-Jul-2025 17:29:46 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:29:55 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/dashboard.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/dashboard.php on line 7
+[21-Jul-2025 17:30:39 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:30:42 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:30:44 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/products.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/products.php on line 7
+[21-Jul-2025 17:30:54 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:31:04 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/settings.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/settings.php on line 7
+[21-Jul-2025 17:31:06 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/calls.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/calls.php on line 7
+[21-Jul-2025 17:31:07 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/products.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/products.php on line 7
+[21-Jul-2025 17:31:08 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:31:10 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/chat.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/chat.php on line 7
+[21-Jul-2025 17:31:16 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:35:53 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/chat.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/chat.php on line 7
+[21-Jul-2025 17:41:58 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/calls.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/calls.php on line 7
+[21-Jul-2025 17:45:06 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:48:26 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/chat.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/chat.php on line 7
+[21-Jul-2025 17:48:45 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/chat.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/chat.php on line 7
+[21-Jul-2025 17:51:47 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/reports.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/reports.php on line 7
+[21-Jul-2025 17:51:49 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:53:21 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/salary.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(637): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/salary.php on line 7
+[21-Jul-2025 17:54:24 Asia/Baku] PHP Warning:  require_once(includes/database.php): Failed to open stream: No such file or directory in /home/ezizov04/public_html/parfum/index.php on line 14
+[21-Jul-2025 17:54:24 Asia/Baku] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/database.php' (include_path='.:/opt/alt/php84/usr/share/pear:/opt/alt/php84/usr/share/php:/usr/share/pear:/usr/share/php') in /home/ezizov04/public_html/parfum/index.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ezizov04/public_html/parfum/index.php on line 14
+[21-Jul-2025 17:55:35 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 17:57:36 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 364
+[21-Jul-2025 17:57:36 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 380
+[21-Jul-2025 17:57:36 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 388
+[21-Jul-2025 18:09:00 Asia/Baku] PHP Warning:  Undefined array key "07" in /home/ezizov04/public_html/parfum/pages/salary.php on line 423
+[21-Jul-2025 18:10:03 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 382
+[21-Jul-2025 18:10:03 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 392
+[21-Jul-2025 18:11:22 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 18:11:42 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 18:11:47 Asia/Baku] PHP Warning:  Undefined array key "07" in /home/ezizov04/public_html/parfum/pages/salary.php on line 423
+[21-Jul-2025 18:11:57 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 382
+[21-Jul-2025 18:11:57 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 392
+[21-Jul-2025 18:12:22 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 382
+[21-Jul-2025 18:12:22 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 392
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "site_name" in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "site_description" in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "contact_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "contact_phone" in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "address" in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "total_users" in /home/ezizov04/public_html/parfum/pages/settings.php on line 465
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "total_products" in /home/ezizov04/public_html/parfum/pages/settings.php on line 469
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "total_sales" in /home/ezizov04/public_html/parfum/pages/settings.php on line 473
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "tax_rate" in /home/ezizov04/public_html/parfum/pages/settings.php on line 497
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "default_commission" in /home/ezizov04/public_html/parfum/pages/settings.php on line 512
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "min_stock_alert" in /home/ezizov04/public_html/parfum/pages/settings.php on line 518
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "receipt_footer" in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "business_hours" in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Warning:  Undefined array key "notification_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[21-Jul-2025 18:14:14 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "site_name" in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "site_description" in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "contact_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "contact_phone" in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "address" in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "total_users" in /home/ezizov04/public_html/parfum/pages/settings.php on line 465
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "total_products" in /home/ezizov04/public_html/parfum/pages/settings.php on line 469
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "total_sales" in /home/ezizov04/public_html/parfum/pages/settings.php on line 473
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "tax_rate" in /home/ezizov04/public_html/parfum/pages/settings.php on line 497
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "default_commission" in /home/ezizov04/public_html/parfum/pages/settings.php on line 512
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "min_stock_alert" in /home/ezizov04/public_html/parfum/pages/settings.php on line 518
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "receipt_footer" in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "business_hours" in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Warning:  Undefined array key "notification_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[21-Jul-2025 18:14:59 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[21-Jul-2025 18:19:25 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 18:22:06 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 18:22:08 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/sales.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 7
+[21-Jul-2025 18:22:11 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/products.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/products.php on line 7
+[21-Jul-2025 18:22:30 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 382
+[21-Jul-2025 18:22:30 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 392
+[21-Jul-2025 18:23:37 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/products.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/products.php on line 7
+[21-Jul-2025 18:34:15 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[21-Jul-2025 18:37:53 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[21-Jul-2025 18:42:22 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 364
+[21-Jul-2025 18:42:22 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 380
+[21-Jul-2025 18:42:22 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 388
+[21-Jul-2025 18:43:02 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 382
+[21-Jul-2025 18:43:02 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 392
+[21-Jul-2025 18:43:05 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 364
+[21-Jul-2025 18:43:05 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 380
+[21-Jul-2025 18:43:05 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 388
+[21-Jul-2025 18:43:11 Asia/Baku] PHP Warning:  Undefined array key "07" in /home/ezizov04/public_html/parfum/pages/salary.php on line 423
+[21-Jul-2025 18:43:15 Asia/Baku] PHP Fatal error:  Uncaught Error: Class "User" not found in /home/ezizov04/public_html/parfum/pages/products.php:7
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/products.php on line 7
+[21-Jul-2025 18:43:17 Asia/Baku] PHP Warning:  Undefined array key "07" in /home/ezizov04/public_html/parfum/pages/salary.php on line 423
+[21-Jul-2025 18:44:46 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[21-Jul-2025 18:47:22 Asia/Baku] PHP Warning:  Undefined array key "avatar" in /home/ezizov04/public_html/parfum/pages/profile.php on line 572
+[21-Jul-2025 18:47:22 Asia/Baku] PHP Warning:  Undefined array key "bio" in /home/ezizov04/public_html/parfum/pages/profile.php on line 593
+[21-Jul-2025 18:47:22 Asia/Baku] PHP Warning:  Undefined array key "updated_at" in /home/ezizov04/public_html/parfum/pages/profile.php on line 782
+[21-Jul-2025 18:47:22 Asia/Baku] PHP Warning:  Undefined array key "updated_at" in /home/ezizov04/public_html/parfum/pages/profile.php on line 784
+[21-Jul-2025 18:47:22 Asia/Baku] PHP Warning:  Undefined array key "updated_at" in /home/ezizov04/public_html/parfum/pages/profile.php on line 785
+[21-Jul-2025 18:52:19 Asia/Baku] PHP Warning:  Undefined array key "avatar" in /home/ezizov04/public_html/parfum/pages/profile.php on line 572
+[21-Jul-2025 18:52:19 Asia/Baku] PHP Warning:  Undefined array key "bio" in /home/ezizov04/public_html/parfum/pages/profile.php on line 593
+[21-Jul-2025 18:52:19 Asia/Baku] PHP Warning:  Undefined array key "updated_at" in /home/ezizov04/public_html/parfum/pages/profile.php on line 782
+[21-Jul-2025 18:52:19 Asia/Baku] PHP Warning:  Undefined array key "updated_at" in /home/ezizov04/public_html/parfum/pages/profile.php on line 784
+[21-Jul-2025 18:52:19 Asia/Baku] PHP Warning:  Undefined array key "updated_at" in /home/ezizov04/public_html/parfum/pages/profile.php on line 785
+[21-Jul-2025 18:52:30 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[21-Jul-2025 18:52:33 Asia/Baku] PHP Warning:  Undefined array key "avatar" in /home/ezizov04/public_html/parfum/pages/profile.php on line 572
+[21-Jul-2025 18:52:33 Asia/Baku] PHP Warning:  Undefined array key "bio" in /home/ezizov04/public_html/parfum/pages/profile.php on line 593
+[21-Jul-2025 18:52:33 Asia/Baku] PHP Warning:  Undefined array key "updated_at" in /home/ezizov04/public_html/parfum/pages/profile.php on line 782
+[21-Jul-2025 18:52:33 Asia/Baku] PHP Warning:  Undefined array key "updated_at" in /home/ezizov04/public_html/parfum/pages/profile.php on line 784
+[21-Jul-2025 18:52:33 Asia/Baku] PHP Warning:  Undefined array key "updated_at" in /home/ezizov04/public_html/parfum/pages/profile.php on line 785
+[21-Jul-2025 18:52:37 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 364
+[21-Jul-2025 18:52:37 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 380
+[21-Jul-2025 18:52:37 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 388
+[21-Jul-2025 19:00:46 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[21-Jul-2025 19:00:51 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[21-Jul-2025 19:00:51 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[21-Jul-2025 19:00:51 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[21-Jul-2025 19:01:05 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 608
+[21-Jul-2025 19:01:05 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 613
+[21-Jul-2025 19:01:28 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 608
+[21-Jul-2025 19:01:28 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 613
+[21-Jul-2025 19:01:28 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 608
+[21-Jul-2025 19:01:28 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 613
+[21-Jul-2025 19:01:34 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 608
+[21-Jul-2025 19:01:34 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 613
+[21-Jul-2025 19:01:43 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 608
+[21-Jul-2025 19:01:43 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 613
+[21-Jul-2025 19:01:48 Asia/Baku] PHP Warning:  Undefined array key "07" in /home/ezizov04/public_html/parfum/pages/salary.php on line 423
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "site_name" in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "site_description" in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "contact_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "contact_phone" in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "address" in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "total_users" in /home/ezizov04/public_html/parfum/pages/settings.php on line 465
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "total_products" in /home/ezizov04/public_html/parfum/pages/settings.php on line 469
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "total_sales" in /home/ezizov04/public_html/parfum/pages/settings.php on line 473
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "tax_rate" in /home/ezizov04/public_html/parfum/pages/settings.php on line 497
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "default_commission" in /home/ezizov04/public_html/parfum/pages/settings.php on line 512
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "min_stock_alert" in /home/ezizov04/public_html/parfum/pages/settings.php on line 518
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "receipt_footer" in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "business_hours" in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Warning:  Undefined array key "notification_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[21-Jul-2025 19:01:52 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[21-Jul-2025 19:02:15 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 608
+[21-Jul-2025 19:02:15 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 613
+[21-Jul-2025 19:02:33 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 364
+[21-Jul-2025 19:02:33 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 380
+[21-Jul-2025 19:02:33 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 388
+[21-Jul-2025 19:04:14 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 364
+[21-Jul-2025 19:04:14 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 380
+[21-Jul-2025 19:04:14 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 388
+[21-Jul-2025 19:19:07 Asia/Baku] PHP Warning:  Undefined array key "07" in /home/ezizov04/public_html/parfum/pages/salary.php on line 423
+[21-Jul-2025 19:20:30 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[21-Jul-2025 19:20:35 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 364
+[21-Jul-2025 19:20:35 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 380
+[21-Jul-2025 19:20:35 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 388
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "site_name" in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "site_description" in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "contact_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "contact_phone" in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "address" in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "total_users" in /home/ezizov04/public_html/parfum/pages/settings.php on line 465
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "total_products" in /home/ezizov04/public_html/parfum/pages/settings.php on line 469
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "total_sales" in /home/ezizov04/public_html/parfum/pages/settings.php on line 473
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "tax_rate" in /home/ezizov04/public_html/parfum/pages/settings.php on line 497
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "default_commission" in /home/ezizov04/public_html/parfum/pages/settings.php on line 512
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "min_stock_alert" in /home/ezizov04/public_html/parfum/pages/settings.php on line 518
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "receipt_footer" in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "business_hours" in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Warning:  Undefined array key "notification_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[22-Jul-2025 00:04:51 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "site_name" in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 415
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "site_description" in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 420
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "contact_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 425
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "contact_phone" in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 430
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "address" in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 435
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "total_users" in /home/ezizov04/public_html/parfum/pages/settings.php on line 465
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "total_products" in /home/ezizov04/public_html/parfum/pages/settings.php on line 469
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "total_sales" in /home/ezizov04/public_html/parfum/pages/settings.php on line 473
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "tax_rate" in /home/ezizov04/public_html/parfum/pages/settings.php on line 497
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "default_commission" in /home/ezizov04/public_html/parfum/pages/settings.php on line 512
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "min_stock_alert" in /home/ezizov04/public_html/parfum/pages/settings.php on line 518
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "receipt_footer" in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 530
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "business_hours" in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 536
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Warning:  Undefined array key "notification_email" in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[22-Jul-2025 00:17:18 Asia/Baku] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ezizov04/public_html/parfum/pages/settings.php on line 568
+[22-Jul-2025 00:21:33 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[22-Jul-2025 00:21:37 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:21:37 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:21:37 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:21:43 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:21:43 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:21:43 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:21:45 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 608
+[22-Jul-2025 00:21:45 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 613
+[22-Jul-2025 00:22:00 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:22:00 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:22:00 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:36 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:36 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:36 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:41 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[22-Jul-2025 00:24:43 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:43 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:43 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:47 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 608
+[22-Jul-2025 00:24:47 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/profile.php on line 613
+[22-Jul-2025 00:24:49 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:49 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:49 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:50 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[22-Jul-2025 00:24:51 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:51 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:24:51 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:44:58 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 364
+[22-Jul-2025 00:44:58 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 380
+[22-Jul-2025 00:44:58 Asia/Baku] PHP Deprecated:  number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /home/ezizov04/public_html/parfum/pages/reports.php on line 388
+[22-Jul-2025 00:45:26 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:45:26 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:45:26 Asia/Baku] PHP Warning:  Undefined array key "sku" in /home/ezizov04/public_html/parfum/pages/products.php on line 1044
+[22-Jul-2025 00:45:33 Asia/Baku] PHP Fatal error:  Cannot redeclare function generateSaleNumber() (previously declared in /home/ezizov04/public_html/parfum/includes/functions.php:91) in /home/ezizov04/public_html/parfum/pages/sales.php on line 12
+[22-Jul-2025 00:53:04 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined function Sales\generateSaleNumber() in /home/ezizov04/public_html/parfum/pages/sales.php:11
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 11
+[22-Jul-2025 00:58:28 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined method Database::beginTransaction() in /home/ezizov04/public_html/parfum/pages/sales.php:66
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 66
+[22-Jul-2025 01:02:06 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined method Database::beginTransaction() in /home/ezizov04/public_html/parfum/pages/sales.php:66
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 66
+[22-Jul-2025 01:02:11 Asia/Baku] PHP Fatal error:  Uncaught Error: Call to undefined method Database::beginTransaction() in /home/ezizov04/public_html/parfum/pages/sales.php:66
+Stack trace:
+#0 /home/ezizov04/public_html/parfum/index.php(532): include()
+#1 {main}
+  thrown in /home/ezizov04/public_html/parfum/pages/sales.php on line 66
